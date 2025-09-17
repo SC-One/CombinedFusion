@@ -1,6 +1,6 @@
 
 import torch
-from CombinedFusion.DynamicDepthAnything import CombinedFusion
+from CombinedFusion.CombinedFusion import CombinedFusion
 from utils.utils import visualize_image_and_depth, load_imageURL_as_tensor
 
 def main():
