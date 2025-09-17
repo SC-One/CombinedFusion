@@ -17,3 +17,8 @@ cfModel = cfModel.to(DEVICE).eval()
 
 # FPS performance
 a comparison FPS on random video on internet, you can look at the FPS counter and also so many details for instance: the hair of man before pushing the ball.
+
+
+
+https://github.com/user-attachments/assets/7373d925-543d-49a1-bd83-a7e93439c31e
+
