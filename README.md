@@ -20,5 +20,11 @@ a comparison FPS on random video on internet, you can look at the FPS counter an
 https://github.com/user-attachments/assets/7373d925-543d-49a1-bd83-a7e93439c31e
 
 
-## training
+## Training
+
 Use DepthAnythingV2 metric fine tune codes, and just replace the model with our model  [`CombinedFusion` folder](./CombinedFusion/). 
+
+
+## Citation
+This work is related to a paper currently under review.
+We will update this section with the official citation once the paper is accepted.
